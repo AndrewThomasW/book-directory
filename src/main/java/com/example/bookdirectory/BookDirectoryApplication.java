@@ -14,7 +14,7 @@ public class BookDirectoryApplication {
 	private static Logger logger = LoggerFactory.getLogger(BookDirectoryApplication.class);
 
 	@PostConstruct
-	public  init(){
+	public void init(){
 		logger.info("Application Started...");
 	}
 
