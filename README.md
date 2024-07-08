@@ -1,3 +1,5 @@
+<h2>Book Directory Class</h2>
+
 Overview
 This repository contains a simple Java class called Book which models a book entity with attributes for the book's ID and title.
 
